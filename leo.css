@@ -1,0 +1,21 @@
+body{
+
+    background-image: url(birthday.jpg);
+    text-emphasis-color: #00f0fc;
+    marquee text-size-adjust: 50px;
+}
+div{
+background-color: aqua;
+text-align: center;
+border-radius: 20px;
+
+}
+marquee{
+
+    text-align: start;
+    text-decoration: springgreen;
+    text-emphasis-color: springgreen;
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+}
