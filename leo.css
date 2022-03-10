@@ -1,13 +1,13 @@
 body{
 
-    background-image: url(birthday.jpg);
+    background-image: url(fuochi.jpg);
     text-emphasis-color: #00f0fc;
     marquee text-size-adjust: 50px;
 }
 div{
 background-color: aqua;
 text-align: center;
-border-radius: 20px;
+border-radius: 15px;
 
 }
 marquee{
