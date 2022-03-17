@@ -1,6 +1,6 @@
 body{
 
-    background-image: url(fuochi.jpg);
+    background-image: url(birth.jpg);
     text-emphasis-color: #00f0fc;
     marquee text-size-adjust: 50px;
 }
@@ -18,4 +18,6 @@ marquee{
     font-size: 30px;
     text-align: center;
     align-items: center;
+
+    
 }
