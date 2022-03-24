@@ -3,11 +3,12 @@ body{
     background-image: url(birth.jpg);
     text-emphasis-color: #00f0fc;
     marquee text-size-adjust: 50px;
+    font-family: cursive;
 }
 div{
 background-color: aqua;
 text-align: center;
-border-radius: 15px;
+
 
 }
 marquee{
