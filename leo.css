@@ -1,12 +1,13 @@
 body{
 
     background-image: url(birth.jpg);
-    text-emphasis-color: #00f0fc;
+    text-emphasis-color: bold;
     marquee text-size-adjust: 50px;
     font-family: cursive;
+    color: #0062ff;
 }
 div{
-background-color: aqua;
+background-color: rgb(251, 255, 0);
 text-align: center;
 
 
